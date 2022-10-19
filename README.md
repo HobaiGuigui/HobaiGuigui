@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mr. Hobai
-- 👀 I’m interested in computer programming
+- 👀 I’m interested in computer programming and security
 - 🌱 I’m currently learning Computer Science and engineering
 - 💞️ I’m looking to collaborate on comunitaires projects
 - 📫 How to reach me ...
