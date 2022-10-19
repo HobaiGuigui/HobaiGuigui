@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on comunitaires projects
 - 📫 How to reach me ...
 - https://www.instagram.com/hiobaldine_official/
-- mailto:hobai.protonmail.com
+- mailto: hobai@protonmail.com
 
 <!---
 HobaiGuigui/HobaiGuigui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
